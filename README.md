@@ -1,6 +1,6 @@
 # Hi there 👋
 
-This is a repo dedicated to documenting my cloud engineering/devops engineering jouney.
+This is a repo dedicated to documenting my cloud engineering/devops engineering journey.
 
 Here are some ideas to get you started:
 
